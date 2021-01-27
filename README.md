@@ -1,6 +1,9 @@
 This project is live, check it out here on gh-pages: https://tayphill13.github.io/react-crypto-tracker/
 
+# Description:
+This was a small project I put together in a couple hours to practice using React and a public API.  I have recently taken an interest in cryptocurrency and I came across a tutorial to put this together.  I had not worked with Semantic UI before, but it was pretty smooth to implement.
 
+<br>
 
 # Getting Started with Create React App
 
