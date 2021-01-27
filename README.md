@@ -1,3 +1,7 @@
+This project is live, check it out here on gh-pages: https://tayphill13.github.io/react-crypto-tracker/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
